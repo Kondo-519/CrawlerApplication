@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CrawlerApplication", "CrawlerApplication\CrawlerApplication.pyproj", "{6789632B-17E0-428E-B3C3-F662AAB8047F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6789632B-17E0-428E-B3C3-F662AAB8047F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6789632B-17E0-428E-B3C3-F662AAB8047F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100B1085-93D4-4820-A9C0-80508C1A1937}
+	EndGlobalSection
+EndGlobal
