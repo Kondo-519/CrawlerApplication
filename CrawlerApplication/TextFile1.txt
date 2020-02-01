@@ -1,0 +1,178 @@
+<!----><img src="https://img4.athome.jp/image_files/index/bukken/6969770887/1" vspace="5" align="left" STYLE="max-width:100px; max-height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万2,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区九段南４丁目<br>
+東京都新宿線 「市ヶ谷」駅 徒歩2分<br />総武・中央緩行線 「市ヶ谷」駅 徒歩6分<br />東京都新宿線 「市ヶ谷」駅 徒歩2分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21987202%26org%3DZN&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21987202%26org%3DZN" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">詳細情報はこちらです <span class="options color5">物件画像:4枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=22167750&org=ZN">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="https://img4.athome.jp/image_files/index/bukken/3682981001/1" vspace="5" align="left" STYLE="max-width:100px; max-height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万2,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区神田駿河台１丁目<br>
+総武・中央緩行線 「御茶ノ水」駅 徒歩5分<br />東京地下鉄丸ノ内線 「御茶ノ水」駅 徒歩6分<br />東京地下鉄千代田線 「新御茶ノ水」駅 徒歩7分<br>
+</td></tr>
+</table></a></div>
+<!--##toiawase_hidden##<a class="btn_toiawase" href="">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22167750%26org%3DZN" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">エルハイム麹町 <span class="options newmark">NEW</span><span class="options color10">物件画像:7枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=22346419&org=ZT">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="https://img4.athome.jp/image_files/index/bukken/6970002144/1" vspace="5" align="left" STYLE="max-width:100px; max-height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万4,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区九段南３丁目<br>
+東京都新宿線 「市ヶ谷」駅 徒歩5分<br />総武・中央緩行線 「市ヶ谷」駅 徒歩8分<br />東京地下鉄半蔵門線 「半蔵門」駅 徒歩12分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22346419%26org%3DZT&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22346419%26org%3DZT" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">フェリス松本九段 <span class="options color10">物件画像:6枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=22263185&org=FR">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="./photo/frk/22263185478.gif" vspace="5" align="left" STYLE="width:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万6,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区九段南３丁目<br>
+総武・中央緩行線 「市ヶ谷」駅 徒歩9分<br />東京地下鉄有楽町線 「市ヶ谷」駅 徒歩8分<br />東京都新宿線 「市ヶ谷」駅 徒歩8分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22263185%26org%3DFR&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22263185%26org%3DFR" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">エスコート神田岩本町 <span class="options color5">物件画像:4枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=21482413&org=ZN">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="https://img4.athome.jp/image_files/index/bukken/6969429367/1" vspace="5" align="left" STYLE="max-width:100px; max-height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万7,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>1K<br>
+東京都千代田区岩本町３丁目<br>
+総武・中央緩行線 「秋葉原」駅 徒歩4分<br />東京都新宿線 「岩本町」駅 徒歩1分<br />山手線 「神 田」駅 徒歩6分<br>
+</td></tr>
+</table></a></div>
+<!--##toiawase_hidden##<a class="btn_toiawase" href="">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21482413%26org%3DZN" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">ダイアパレス東神田 <span class="options color5">物件画像:2枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=22227776&org=FR">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="./photo/frk/22227776478.gif" vspace="5" align="left" STYLE="width:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 7万8,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>1K<br>
+東京都千代田区東神田２丁目<br>
+山手線 「秋葉原」駅 徒歩6分<br />総武・中央緩行線 「浅草橋」駅 徒歩6分<br />東京地下鉄日比谷線 「秋葉原」駅 徒歩6分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22227776%26org%3DFR&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D22227776%26org%3DFR" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">番町ハイム </div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=21958972&org=FR">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="./search/images/noimage.gif" vspace="5" align="left" STYLE="width:100px;height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 8万円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区二番町<br>
+東京地下鉄有楽町線 「麹町」駅 徒歩2分<br />東京地下鉄半蔵門線 「半蔵門」駅 徒歩5分<br />総武・中央緩行線 「市ヶ谷」駅 徒歩8分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21958972%26org%3DFR&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21958972%26org%3DFR" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<!--結果 start-->
+
+
+<!--結果 start-->
+<div class="tit-syousai"><div style="padding:10px;">詳細情報はこちらです <span class="options color11">物件画像:14枚</span></div></div>
+<div class="serch-obi"><a href="./?act=d&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=&bid=21068991&org=ZT">
+<table width="100%" cellpadding="3" cellspacing="8" border="1">
+<tr><td>
+<!----><img src="https://img4.athome.jp/image_files/index/bukken/6969171518/1" vspace="5" align="left" STYLE="max-width:100px; max-height:100px;"><!-- --></td><td>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">賃料</span><span style="color:#f00; font-weight:bold;"> 8万3,000円</span><br>
+<span style="color:#09c; font-weight:bold; padding-right:5px;">間取り</span>ワンルーム<br>
+東京都千代田区九段北４丁目<br>
+東京都新宿線 「市ヶ谷」駅 徒歩1分<br />東京地下鉄有楽町線 「市ヶ谷」駅 徒歩4分<br />総武・中央緩行線 「市ヶ谷」駅 徒歩6分<br />東京メトロ南北線「市ヶ谷」駅徒歩５分<br>
+</td></tr>
+</table></a></div>
+<!----><a class="btn_toiawase" href="https://www.fudousan.or.jp/system/?act=t&site=sp&type=31&stype=l&pref=13&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21068991%26org%3DZT&tdata036=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101">お問合せ</a><!-- -->
+                        <p class="text_right">
+                                <a href="./?act=v&type=39&sact=blistadd&param=act%3Dd%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101%26bid%3D21068991%26org%3DZT" class="btn_hozon">マイリストに保存</a>
+                        </p>
+                        <br clear=all>
+
+<div class="page_top"><p><a href="#">▲ ページトップへ</a></p></div>
+<div class="ad-section">
+<p>
+<ins data-revive-zoneid="90" data-revive-id="7b490ea96e6c77ac29717254e6aa2642"></ins>
+<script async src="//ad.mandl.co.jp/revive/www/delivery/asyncjs.php"></script>
+</p>
+</div>
+<div style="width:100%;position:fixed;bottom:0%;" id="submitbtn"><div id="ken1"><div style="padding-top:10px;padding-right:5%;padding-bottom:10px;padding-left:5%;"><a href="./?act=v&type=39&sact=slistadd&param=act%3Dl%26type%3D31%26pref%3D13%26stype%3Dl%26city%5B%5D%3D13101" class="btn_jyokenhozon">検索条件を<br />マイリストに保存</a><a href="./?act=fj&type=31&pref=13&stype=l&city[]=13101" class="btn_jouken">検索条件変更</a><div style="clear:both;"></div></div></div></div>
+<script type="text/javascript">
+window.onload = function() {
+document.getElementById('footer').style.marginBottom = "84px";
+};
+</script>
+                                <!-- 動的コンテンツ ここまで -->
+
+</div><!--</cont>-->
+<div id="footer">
+<div class="kyoukai"><!--<p>PC版はこちらから</p>
+        <a href="//www.fudousan.or.jp/"><img src="img/logo.gif" width="221" height="45" alt=" 不動産ジャパン"></a><br />-->
+        <a href="/">トップページに戻る</a><br />
+<!-- 2016.01.27 takatsu 201512改修 ADD START -->
+<p style="text-align:left; clear:both">不動産ジャパンは、お客様に信頼される不動産業の健全な発 展を目指す公益財団法人不動産流通推進センターが運営しています。</p>
+<div class="dsc-btns">
+<a href="/kiso.html" class="btn2" style="float:left;">不動産基礎知識</a>
+<a href="/about.html" class="btn2" style="float:left;">不動産ジャパンについて</a>
+</div>
+
+<!-- 2016.01.27 takatsu 201512改修 ADD END -->
+</div>
+<p class="copy">（公財）公益財団法人不動産流通推進センター</p>
+</div><!--</footer>-->
+</body>
+</html>
+
+Press any key to continue . . .
+
