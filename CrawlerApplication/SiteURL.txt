@@ -1,0 +1,2 @@
+https://s.fudousan.or.jp/system/?act=l&type=31&pref=13&stype=l&city[]=13101&n=20&p=1&v=on&s=
+https://s.fudousan.or.jp/system/?act=l&type=31&pref=13&stype=l&city[]=13101&n=20&p=2&v=on&s=

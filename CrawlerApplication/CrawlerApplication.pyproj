@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6789632b-17e0-428e-b3c3-f662aab8047f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CrawlerApplication.py</StartupFile>
+    <StartupFile>Main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CrawlerApplication.py" />
+    <Compile Include="Main.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="SiteURL.txt" />
